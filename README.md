@@ -29,6 +29,13 @@ for colors classification in a given image.
 * Only accepts square images.
 * Quite slow.
 
+## Improvement ideas
+
+* Parallelize.
+* Better weights initialization (for a cleaner output).
+* Stop after convergence.
+* Writer cleaner code / split into modules.
+* Support non square images.
 
 ## License
 
