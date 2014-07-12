@@ -1,7 +1,8 @@
 # SOM in Python for images
 
-This is a very simple Python implementation of a Self-Organizing Map for
-colors classification in a given image.
+This is a very simple Python implementation of a
+[Self-Organizing Map](http://en.wikipedia.org/wiki/Self-organizing_map)
+for colors classification in a given image.
 
 ## Dependencies
 
