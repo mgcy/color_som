@@ -12,6 +12,16 @@ a given image.
 
     python som.py input_image.png output_image.png
 
+## Example
+
+### Input
+
+![Lenna](lenna.png?raw=true)
+
+### Output
+
+![Result](result.png?raw=true)
+
 ## Warnings
 
 * This was hacked together in about an hour.
