@@ -1,12 +1,12 @@
-# Self-Organizing Map Python implementation for images
+# SOM in Python for images
 
-This is a very simple implementation of a SOM for colors classification in
-a given image.
+This is a very simple Python implementation of a Self-Organizing Map for
+colors classification in a given image.
 
 ## Dependencies
 
-* Python 3
-* Pillow
+* [Python 3](http://python.org/)
+* [Pillow](http://pillow.readthedocs.org/en/latest/)
 
 ## Run
 
